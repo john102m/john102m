@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @john102m
-- 👀 I’m interested in c# .net and all things esp8266
-- 🌱 I’m currently learning js workers and pwa
-- 💞️ I’m looking to collaborate on IoT
+Software Developer at Zonal Retail Data Systems, specializing in ASP.NET Core middleware, third-party API integrations, and cloud deployment with Docker and Azure DevOps. Strong experience in unit testing (NUnit, Moq), REST tooling (Swagger, Postman), and full-stack .NET development.
+On the side, I engineer embedded audio systems using ESP32, FreeRTOS, and Bluetooth Classic + BLE, with I2S audio capture, ring buffer streaming, and custom BLE volume control via native Android modules. I prototype PCBs in DipTrace, implement power path control with LiPo charging ICs, and debug signal chains from mic to speaker — all for the sheer fun of it.
+
 - 📫 How to reach me john_m102uk@yahoo.co.uk
 
 <!---
